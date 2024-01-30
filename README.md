@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMzY3ZWI1MGMtYWE2My00NTMyLThlYzYtYWQ2YWY2ZjMxODdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDYwM2RjY2ItZWY4YS00OTY4LWE4YTctYTM5NTQzNzJmOGE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tools Used
 
@@ -104,7 +104,8 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home View
 
-![Home](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/9c7ccf31-0de4-4c21-b8a2-06c843e8672e)
+![HomePageView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/f735fabf-18e9-42ea-9cca-6fe73904937f)
+
 
 ## Finance View
 
