@@ -102,34 +102,29 @@ In Home view, all the views button will be available. User will land on specific
 - Stakeholder Request
 - Support
 
-## Home View
+# Home View
 
-![HomePageView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/f735fabf-18e9-42ea-9cca-6fe73904937f)
-
+![HomePage](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/acbe8830-2b54-4c45-b455-39feb35dc4e8)
 
 ## Finance View
 
-![Financeview](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/d32e14d3-9933-4d0b-ae45-ff2133361afe)
-
+![FinanceView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/eab4c6ff-9be3-4515-b131-7177ef56010c)
 
 ## Sales View
 
-![SalesView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/30efa41b-c381-4044-9e39-f1c28bc8a100)
-
+![SalesView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/6eee3bb8-712e-4502-bf62-e298ea20ced2)
 
 ## Marketing View
 
-![marketingVview](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/44368438-660b-4bba-b976-1a4ac616b657)
-
+![MarketingView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/3b1f5d23-d3a8-47ee-8a03-f8b979ac0200)
 
 ## Supply chain View
 
-![SalesView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/75661520-e8a3-43f5-a370-660d729aa2b4)
-
+![SupplyChainView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/c6adba92-4e6c-4f87-b2d4-4d3b8c2573dd)
 
 ## Executive View
 
-![ExcutiveView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/ec960040-684f-4864-859b-5836664d0d05)
+![ExecutiveView](https://github.com/IamSumitKadam/Power-BI--Business-Insight-360/assets/158054043/15a3a588-010a-4c16-8bed-fd6bdb15c477)
 
 
 ## Support View
